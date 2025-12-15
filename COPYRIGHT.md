@@ -11,8 +11,9 @@ A continuación, se detallan las reglas y la licencia de uso para este paquete d
 Usted tiene permiso para usar este paquete de recursos para los siguientes fines, siempre que se respeten las condiciones de atribución:
 
 * **Contenido en Medios:** Usarlo en videos grabados y transmisiones en directo (streams).
+* **Sagas y Series:** Uso en series, sagas o proyectos de larga duración con la **obligación de incluir referencia al creador y su Sitio Web Oficial** en la descripción o créditos.
 * **Modificaciones Personales:** Realizar ediciones o modificaciones **únicamente para uso personal**.
-    * ***Importante:*** **No está permitida** la distribución de versiones modificadas.
+    * ***Importante:*** **No está permitida** la distribución de versiones modificadas.
 * **Reseñas y Showcases:** Hacer reseñas o presentaciones del paquete, **dejando siempre los créditos completos** que se encuentran en el archivo `README` (en la sección 'Información Básica').
 
 ---
@@ -32,11 +33,13 @@ Queda estrictamente prohibido:
 | :--- | :--- |
 | **Creador** | Aniki Vlogs |
 | **Nombre del Paquete** | Atalia SL |
-| **Versión del Resource Pack** | 3.0.0 |
-| **Versión de Minecraft (MC)** | 1.21.+ |
+| **Sitio Web Oficial** | [Ir al sitio](https://github.com/anikivlogsoficial/AtaliaSL) |
+| **Versión del Resource Pack** | 3.2.0 |
+| **Versión de Minecraft (MC)** | 1.21.10 |
 | **Características Clave** | Esencia y simpleza. |
 | **Fecha de Creación** | 20 / 08 / 2020 |
-| **Última Actualización** | 01 / 11 / 2025 |
+| **Última Actualización** | 15 / 12 / 2025 |
+| **Derechos** | Todos los derechos reservados |
 | **Nota del Creador** | Diseñado y enfocado principalmente para el modo de juego **Supervivencia (Survival)**. |
 
 ---
